@@ -1,0 +1,12 @@
+Git >>> Version Control
+
+whatsapp versions
+v1origin
+v2
+v3
+v4
+git config -- user.name "bmahesh5586-git"
+git config -- user.email "bmahesh5586gmail.com"
+git remote add origin https://github.com/bmahesh5586-git/guthub.git
+
+git pull origin  0o
